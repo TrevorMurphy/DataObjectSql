@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry combineaccessrules="false" kind="src" path="/DataObject"/>
+	<classpathentry kind="lib" path="/LibraryManager/spring/spring.jar"/>
+	<classpathentry kind="lib" path="/LibraryManager/logging/log4j-1.2.14.jar"/>
+	<classpathentry kind="lib" path="/LibraryManager/common/commons-dbcp.jar"/>
+	<classpathentry kind="lib" path="/LibraryManager/common/commons-pool.jar"/>
+	<classpathentry kind="lib" path="/LibraryManager/mysql/mysql-connector-java-5.1.6.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
